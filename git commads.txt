@@ -31,6 +31,12 @@ clear  : this command is to clear bash screen
 touch '<file name>'  creates a new file
 
 .gitignore  :  this file keeps track list of files which we don;t want to commit . We just enter file names                   inside this file which we want to ignore
+
+git branch <branch name>   : by default all files are in master branch. But we can create multiple 
+			branches and create folders and files there .this is useful for multiple                                                 developers to work on the same file 
+
+git checkout <branch name>  : it will take us into that branch
+
 -----------------------------------------------
 
 
