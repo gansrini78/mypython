@@ -1,0 +1,27 @@
+Git commands in bash:
+
+git init
+
+git add <file name>
+
+git status : show what is in local repo committed and not committed
+
+git commit   : to save the file into local repository
+
+git push  :  moves files frm local repository to remote repository like git hub
+
+
+git pull: from remote to local repository
+
+git clone : create a copy of the program or module in the remote repository into the local folder
+
+get rm --cached <file name> to remove file from repo and move it back to staging( uncommitted status)
+
+get add .   will add all file to repo and commit them
+
+
+
+-----------------------------------------------
+
+
+
