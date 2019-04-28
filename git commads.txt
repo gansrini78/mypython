@@ -20,10 +20,17 @@ git rm --cached <file name> to remove file from repo and move it back to staging
 git add .   will add all file to repo 
 
 
-git commit  : this opens another window ..commands used here : i ,Esc button , :wq
+git commit  : this opens another edit window ..commands used here : i ,Esc button , :wq
                      here your run  Initial commit statament and :wq to move it to commit status
 
 
+git commit -m  '<just mentioned what changes were made>'   : this commits the files without getting into edit window mode
+
+clear  : this command is to clear bash screen
+
+touch '<file name>'  creates a new file
+
+.gitignore  :  this file keeps track list of files which we don;t want to commit . We just enter file names                   inside this file which we want to ignore
 -----------------------------------------------
 
 
